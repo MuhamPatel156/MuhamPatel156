@@ -1,4 +1,4 @@
-<h1 align="center">Patel Muhammad Yusuf</h1>
+<h1 align="center">Muhammad Yusuf Patel</h1>
 
 <h3 align="center">Information Technology @ NIT Srinagar · Machine Learning · Agentic AI</h3>
 
